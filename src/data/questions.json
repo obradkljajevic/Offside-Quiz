@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "answers": ["Brazil", "Argentina", "Uruguay", "Italy"],
+    "correct": 2
+  },
+  {
+    "id": 2,
+    "question": "Who holds the record for most goals in a single World Cup tournament?",
+    "answers": ["Ronaldo", "Just Fontaine", "Gerd Müller", "Pelé"],
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "answers": ["Barcelona", "Bayern Munich", "AC Milan", "Real Madrid"],
+    "correct": 3
+  },
+  {
+    "id": 4,
+    "question": "Who won the Ballon d'Or the most times?",
+    "answers": ["Cristiano Ronaldo", "Lionel Messi", "Ronaldinho", "Zinedine Zidane"],
+    "correct": 1
+  },
+  {
+    "id": 5,
+    "question": "In which year did Brazil win their fifth World Cup?",
+    "answers": ["1994", "1998", "2002", "2006"],
+    "correct": 2
+  },
+  {
+    "id": 6,
+    "question": "Which player is known as 'El Pibe de Oro'?",
+    "answers": ["Pelé", "Diego Maradona", "Ronaldo", "Zico"],
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "question": "Which stadium has the largest capacity in the world?",
+    "answers": ["Camp Nou", "Wembley", "Rungrado May Day Stadium", "Michigan Stadium"],
+    "correct": 2
+  },
+  {
+    "id": 8,
+    "question": "How many players are on the field per team in football?",
+    "answers": ["9", "10", "11", "12"],
+    "correct": 2
+  },
+  {
+    "id": 9,
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "answers": ["Germany", "Italy", "Argentina", "Brazil"],
+    "correct": 3
+  },
+  {
+    "id": 10,
+    "question": "Who scored the 'Hand of God' goal?",
+    "answers": ["Pelé", "Zidane", "Maradona", "Ronaldo"],
+    "correct": 2
+  },
+  {
+    "id": 11,
+    "question": "Which English club is known as 'The Red Devils'?",
+    "answers": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+    "correct": 2
+  },
+  {
+    "id": 12,
+    "question": "In which city is the Santiago Bernabéu stadium located?",
+    "answers": ["Barcelona", "Madrid", "Seville", "Valencia"],
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "question": "Who was the top scorer of the 2018 World Cup?",
+    "answers": ["Lionel Messi", "Cristiano Ronaldo", "Harry Kane", "Kylian Mbappé"],
+    "correct": 2
+  },
+  {
+    "id": 14,
+    "question": "Which club did Ronaldo join after leaving Manchester United in 2009?",
+    "answers": ["Juventus", "PSG", "Real Madrid", "AC Milan"],
+    "correct": 2
+  },
+  {
+    "id": 15,
+    "question": "How long is a standard football match?",
+    "answers": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "correct": 1
+  },
+  {
+    "id": 16,
+    "question": "Which nation hosted the 2022 FIFA World Cup?",
+    "answers": ["UAE", "Saudi Arabia", "Qatar", "Bahrain"],
+    "correct": 2
+  },
+  {
+    "id": 17,
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "answers": ["Lionel Messi", "Raul", "Cristiano Ronaldo", "Robert Lewandowski"],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "question": "Which team did Zinedine Zidane play for before Real Madrid?",
+    "answers": ["PSG", "Monaco", "Marseille", "Juventus"],
+    "correct": 3
+  },
+  {
+    "id": 19,
+    "question": "What color card results in a player being sent off?",
+    "answers": ["Yellow", "Orange", "Red", "Blue"],
+    "correct": 2
+  },
+  {
+    "id": 20,
+    "question": "Which club is known as 'Los Blancos'?",
+    "answers": ["Atletico Madrid", "Real Madrid", "Valencia", "Juventus"],
+    "correct": 1
+  },
+  {
+    "id": 21,
+    "question": "Who won the 2022 FIFA World Cup?",
+    "answers": ["France", "Brazil", "Argentina", "Croatia"],
+    "correct": 2
+  },
+  {
+    "id": 22,
+    "question": "Which player has the most international goals in history?",
+    "answers": ["Cristiano Ronaldo", "Ali Daei", "Lionel Messi", "Puskás"],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "question": "What is the maximum number of substitutions allowed in a standard match?",
+    "answers": ["3", "4", "5", "6"],
+    "correct": 2
+  },
+  {
+    "id": 24,
+    "question": "Which club won the first ever Premier League title in 1993?",
+    "answers": ["Arsenal", "Manchester United", "Liverpool", "Blackburn Rovers"],
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "question": "Who is known as 'The Egyptian King'?",
+    "answers": ["Mohamed Aboutrika", "Mohamed Salah", "Essam El Hadary", "Amr Zaki"],
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "question": "In which year was FIFA founded?",
+    "answers": ["1900", "1904", "1910", "1920"],
+    "correct": 1
+  },
+  {
+    "id": 27,
+    "question": "Which club has won the most English Premier League titles?",
+    "answers": ["Arsenal", "Chelsea", "Liverpool", "Manchester United"],
+    "correct": 3
+  },
+  {
+    "id": 28,
+    "question": "What is the width of a standard football goal?",
+    "answers": ["6.32m", "7.32m", "8.32m", "9.32m"],
+    "correct": 1
+  },
+  {
+    "id": 29,
+    "question": "Who managed Manchester United to their 1999 Treble?",
+    "answers": ["José Mourinho", "Sir Alex Ferguson", "Ron Atkinson", "David Moyes"],
+    "correct": 1
+  },
+  {
+    "id": 30,
+    "question": "Which country does Luka Modrić play for?",
+    "answers": ["Serbia", "Slovenia", "Bosnia", "Croatia"],
+    "correct": 3
+  },
+  {
+    "id": 31,
+    "question": "In which city is the Camp Nou stadium?",
+    "answers": ["Madrid", "Seville", "Barcelona", "Valencia"],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "question": "Who scored the winning penalty in the 2022 World Cup final?",
+    "answers": ["Messi", "Di María", "Gonzalo Montiel", "Lautaro Martínez"],
+    "correct": 2
+  },
+  {
+    "id": 33,
+    "question": "Which club did Pelé spend most of his career at?",
+    "answers": ["Flamengo", "Corinthians", "Santos", "Vasco da Gama"],
+    "correct": 2
+  },
+  {
+    "id": 34,
+    "question": "What trophy is awarded to the best player at the World Cup?",
+    "answers": ["Golden Boot", "Golden Glove", "Golden Ball", "Silver Ball"],
+    "correct": 2
+  },
+  {
+    "id": 35,
+    "question": "Which player is nicknamed 'CR7'?",
+    "answers": ["Carlos Ramos 7", "Cristiano Ronaldo", "Carlos Roberto", "César Rodríguez"],
+    "correct": 1
+  },
+  {
+    "id": 36,
+    "question": "How many times has Italy won the World Cup?",
+    "answers": ["3", "4", "5", "6"],
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "question": "Which German club is known as 'Die Roten' (The Reds)?",
+    "answers": ["Borussia Dortmund", "Bayer Leverkusen", "Bayern Munich", "RB Leipzig"],
+    "correct": 2
+  },
+  {
+    "id": 38,
+    "question": "Who won the 2018 FIFA World Cup?",
+    "answers": ["Croatia", "Belgium", "France", "England"],
+    "correct": 2
+  },
+  {
+    "id": 39,
+    "question": "Which player has won the most FIFA World Cup medals?",
+    "answers": ["Ronaldo", "Pelé", "Cafu", "Roberto Carlos"],
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "question": "Which club is known as 'The Gunners'?",
+    "answers": ["Chelsea", "Tottenham", "Arsenal", "West Ham"],
+    "correct": 2
+  },
+  {
+    "id": 41,
+    "question": "Who is the youngest player to score at a World Cup?",
+    "answers": ["Pelé", "Cesc Fàbregas", "Wayne Rooney", "Kylian Mbappé"],
+    "correct": 0
+  },
+  {
+    "id": 42,
+    "question": "Which country hosted the 1966 World Cup?",
+    "answers": ["France", "West Germany", "England", "Italy"],
+    "correct": 2
+  },
+  {
+    "id": 43,
+    "question": "What does VAR stand for?",
+    "answers": [
+      "Video Assistant Referee",
+      "Virtual Area Review",
+      "Video Area Referee",
+      "Virtual Assistant Review"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 44,
+    "question": "Which club has won the most La Liga titles?",
+    "answers": ["Barcelona", "Atletico Madrid", "Valencia", "Real Madrid"],
+    "correct": 3
+  },
+  {
+    "id": 45,
+    "question": "Who is known as 'The Special One'?",
+    "answers": ["Pep Guardiola", "José Mourinho", "Carlo Ancelotti", "Jurgen Klopp"],
+    "correct": 1
+  },
+  {
+    "id": 46,
+    "question": "In what year did the Premier League start?",
+    "answers": ["1988", "1990", "1992", "1994"],
+    "correct": 2
+  },
+  {
+    "id": 47,
+    "question": "Which club does Erling Haaland currently play for?",
+    "answers": ["Borussia Dortmund", "RB Salzburg", "Manchester City", "Bayern Munich"],
+    "correct": 2
+  },
+  {
+    "id": 48,
+    "question": "What nationality is Kylian Mbappé?",
+    "answers": ["Belgian", "Senegalese", "Cameroonian", "French"],
+    "correct": 3
+  },
+  {
+    "id": 49,
+    "question": "Which club did Ronaldinho play for after Barcelona?",
+    "answers": ["PSG", "Inter Milan", "AC Milan", "Juventus"],
+    "correct": 2
+  },
+  {
+    "id": 50,
+    "question": "Who has the most Premier League goals of all time?",
+    "answers": ["Frank Lampard", "Wayne Rooney", "Andrew Cole", "Alan Shearer"],
+    "correct": 3
+  },
+  {
+    "id": 51,
+    "question": "Which country does Sadio Mané represent?",
+    "answers": ["Ghana", "Nigeria", "Senegal", "Ivory Coast"],
+    "correct": 2
+  },
+  {
+    "id": 52,
+    "question": "How many World Cups did Pelé win?",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 2
+  },
+  {
+    "id": 53,
+    "question": "Which club is nicknamed 'The Citizens'?",
+    "answers": ["Manchester United", "Manchester City", "Everton", "Leeds United"],
+    "correct": 1
+  },
+  {
+    "id": 54,
+    "question": "In which country is the Allianz Arena located?",
+    "answers": ["Austria", "Switzerland", "Germany", "Netherlands"],
+    "correct": 2
+  },
+  {
+    "id": 55,
+    "question": "Who won the 2014 FIFA World Cup?",
+    "answers": ["Brazil", "Argentina", "Germany", "Netherlands"],
+    "correct": 2
+  },
+  {
+    "id": 56,
+    "question": "Which player is known as 'La Pulga' (The Flea)?",
+    "answers": ["Neymar", "Messi", "Iniesta", "Xavi"],
+    "correct": 1
+  },
+  {
+    "id": 57,
+    "question": "Which country has never won the FIFA World Cup despite having strong football traditions?",
+    "answers": ["Italy", "Netherlands", "Germany", "France"],
+    "correct": 1
+  },
+  {
+    "id": 58,
+    "question": "Which club did Thierry Henry play most of his career at?",
+    "answers": ["Barcelona", "Monaco", "Arsenal", "Juventus"],
+    "correct": 2
+  },
+  {
+    "id": 59,
+    "question": "What is the name of Liverpool's home stadium?",
+    "answers": ["Old Trafford", "Goodison Park", "Anfield", "Stamford Bridge"],
+    "correct": 2
+  },
+  {
+    "id": 60,
+    "question": "Which country does Kevin De Bruyne play for?",
+    "answers": ["Netherlands", "France", "Belgium", "Germany"],
+    "correct": 2
+  },
+  {
+    "id": 61,
+    "question": "Which club won the UEFA Champions League in 2023?",
+    "answers": ["PSG", "Manchester City", "Real Madrid", "Bayern Munich"],
+    "correct": 1
+  },
+  {
+    "id": 62,
+    "question": "How many points is a win worth in the Premier League?",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 2
+  },
+  {
+    "id": 63,
+    "question": "Which national team is nicknamed 'The Three Lions'?",
+    "answers": ["Scotland", "Wales", "Ireland", "England"],
+    "correct": 3
+  },
+  {
+    "id": 64,
+    "question": "Which player wore the number 10 shirt for Brazil in the 2002 World Cup?",
+    "answers": ["Rivaldo", "Ronaldinho", "Ronaldo", "Kaká"],
+    "correct": 1
+  },
+  {
+    "id": 65,
+    "question": "Which club did Zlatan Ibrahimović NOT play for?",
+    "answers": ["Barcelona", "Real Madrid", "PSG", "AC Milan"],
+    "correct": 1
+  },
+  {
+    "id": 66,
+    "question": "Who scored the winning goal in the 1966 World Cup final?",
+    "answers": ["Bobby Charlton", "Geoff Hurst", "Roger Hunt", "Martin Peters"],
+    "correct": 1
+  },
+  {
+    "id": 67,
+    "question": "Which club is known as 'The Bianconeri'?",
+    "answers": ["Inter Milan", "AC Milan", "Juventus", "Lazio"],
+    "correct": 2
+  },
+  {
+    "id": 68,
+    "question": "Who is the all-time top scorer for the German national team?",
+    "answers": ["Gerd Müller", "Miroslav Klose", "Karl-Heinz Rummenigge", "Thomas Müller"],
+    "correct": 1
+  },
+  {
+    "id": 69,
+    "question": "Which club does Vinicius Jr play for?",
+    "answers": ["PSG", "Barcelona", "Real Madrid", "Bayern Munich"],
+    "correct": 2
+  },
+  {
+    "id": 70,
+    "question": "What is the name of the annual award for the best goalkeeper?",
+    "answers": ["Golden Glove", "Golden Boot", "Silver Glove", "Iron Fist"],
+    "correct": 0
+  },
+  {
+    "id": 71,
+    "question": "Which nation did Ronaldo (R9) play for?",
+    "answers": ["Portugal", "Spain", "Brazil", "Argentina"],
+    "correct": 2
+  },
+  {
+    "id": 72,
+    "question": "Who is the most capped player in English football history?",
+    "answers": ["David Beckham", "Wayne Rooney", "Peter Shilton", "Steven Gerrard"],
+    "correct": 2
+  },
+  {
+    "id": 73,
+    "question": "Which club plays at the Etihad Stadium?",
+    "answers": ["Manchester United", "Manchester City", "Everton", "Burnley"],
+    "correct": 1
+  },
+  {
+    "id": 74,
+    "question": "Who scored a hat-trick in the 2018 World Cup group stage against Portugal?",
+    "answers": ["Messi", "Ronaldo", "Lukaku", "Kane"],
+    "correct": 1
+  },
+  {
+    "id": 75,
+    "question": "Which country does Virgil van Dijk represent?",
+    "answers": ["Belgium", "Germany", "Denmark", "Netherlands"],
+    "correct": 3
+  },
+  {
+    "id": 76,
+    "question": "Which club won the treble in the 2022-23 season?",
+    "answers": ["Arsenal", "Liverpool", "Manchester City", "Chelsea"],
+    "correct": 2
+  },
+  {
+    "id": 77,
+    "question": "In which country was Lionel Messi born?",
+    "answers": ["Uruguay", "Brazil", "Argentina", "Chile"],
+    "correct": 2
+  },
+  {
+    "id": 78,
+    "question": "Which club did Roberto Carlos play most of his career at?",
+    "answers": ["Barcelona", "Inter Milan", "AC Milan", "Real Madrid"],
+    "correct": 3
+  },
+  {
+    "id": 79,
+    "question": "What nationality is manager Pep Guardiola?",
+    "answers": ["Portuguese", "Spanish", "Italian", "French"],
+    "correct": 1
+  },
+  {
+    "id": 80,
+    "question": "Which team won the first UEFA European Championship in 1960?",
+    "answers": ["Spain", "Yugoslavia", "Soviet Union", "France"],
+    "correct": 2
+  },
+  {
+    "id": 81,
+    "question": "Who scored the famous 'Goal of the Century' in 1986?",
+    "answers": ["Pelé", "Zico", "Diego Maradona", "Michel Platini"],
+    "correct": 2
+  },
+  {
+    "id": 82,
+    "question": "Which club is known as 'The Spurs'?",
+    "answers": ["Chelsea", "Arsenal", "West Ham", "Tottenham Hotspur"],
+    "correct": 3
+  },
+  {
+    "id": 83,
+    "question": "How many teams compete in the Premier League?",
+    "answers": ["18", "20", "22", "24"],
+    "correct": 1
+  },
+  {
+    "id": 84,
+    "question": "Which player won the Ballon d'Or after the 2022 World Cup?",
+    "answers": ["Mbappé", "Benzema", "Messi", "Vinicius Jr"],
+    "correct": 2
+  },
+  {
+    "id": 85,
+    "question": "Which African country reached the semi-finals of the 2022 World Cup?",
+    "answers": ["Senegal", "Cameroon", "Ghana", "Morocco"],
+    "correct": 3
+  },
+  {
+    "id": 86,
+    "question": "Who holds the record for most goals in a single Premier League season (38 games)?",
+    "answers": ["Luis Suárez", "Mohamed Salah", "Alan Shearer", "Harry Kane"],
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "question": "Which club has won the most Serie A titles?",
+    "answers": ["AC Milan", "Inter Milan", "Roma", "Juventus"],
+    "correct": 3
+  },
+  {
+    "id": 88,
+    "question": "What is the home stadium of Borussia Dortmund?",
+    "answers": ["Allianz Arena", "Signal Iduna Park", "Mercedes-Benz Arena", "Red Bull Arena"],
+    "correct": 1
+  },
+  {
+    "id": 89,
+    "question": "Which player is known as 'The Phenomenon'?",
+    "answers": ["Pelé", "Ronaldinho", "Ronaldo (R9)", "Zidane"],
+    "correct": 2
+  },
+  {
+    "id": 90,
+    "question": "Which country won Euro 2020 (played in 2021)?",
+    "answers": ["France", "England", "Italy", "Spain"],
+    "correct": 2
+  },
+  {
+    "id": 91,
+    "question": "Who is the all-time top scorer for France?",
+    "answers": ["Thierry Henry", "Zinedine Zidane", "Kylian Mbappé", "Michel Platini"],
+    "correct": 2
+  },
+  {
+    "id": 92,
+    "question": "Which club did David Beckham join after Real Madrid?",
+    "answers": ["LA Galaxy", "AC Milan", "Inter Miami", "New York City FC"],
+    "correct": 0
+  },
+  {
+    "id": 93,
+    "question": "Which country does Neymar Jr play for?",
+    "answers": ["Argentina", "Portugal", "Brazil", "Spain"],
+    "correct": 2
+  },
+  {
+    "id": 94,
+    "question": "Who was the first player to win 5 Ballon d'Or awards?",
+    "answers": ["Cristiano Ronaldo", "Lionel Messi", "Johan Cruyff", "Michel Platini"],
+    "correct": 1
+  },
+  {
+    "id": 95,
+    "question": "Which club plays their home games at Old Trafford?",
+    "answers": ["Manchester City", "Liverpool", "Manchester United", "Leeds United"],
+    "correct": 2
+  },
+  {
+    "id": 96,
+    "question": "In which year did Spain win their first World Cup?",
+    "answers": ["2006", "2008", "2010", "2012"],
+    "correct": 2
+  },
+  {
+    "id": 97,
+    "question": "Which player is known as 'The Black Panther'?",
+    "answers": ["Didier Drogba", "Samuel Eto'o", "Eusébio", "George Weah"],
+    "correct": 2
+  },
+  {
+    "id": 98,
+    "question": "Which club did Jurgen Klopp manage before Liverpool?",
+    "answers": ["Bayern Munich", "Schalke", "Borussia Dortmund", "Hamburg"],
+    "correct": 2
+  },
+  {
+    "id": 99,
+    "question": "How many players are in a standard penalty shootout per team (minimum)?",
+    "answers": ["3", "4", "5", "6"],
+    "correct": 2
+  },
+  {
+    "id": 100,
+    "question": "Which country does Son Heung-min play for?",
+    "answers": ["Japan", "China", "North Korea", "South Korea"],
+    "correct": 3
+  }
+]

@@ -1,11 +1,36 @@
-<script setup></script>
+<script setup>
+import { useQuizStore } from './stores/quizStore'
+
+const store = useQuizStore()
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="app">
+    <StartScreen v-if="store.status === 'start'" />
+    <QuizCard v-else-if="store.status === 'playing'" />
+    <ResultScreen v-else />
+  </div>
 </template>
 
-<style scoped></style>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1a1a2e;
+  color: white;
+  min-height: 100vh;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+</style>

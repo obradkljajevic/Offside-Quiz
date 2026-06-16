@@ -6,11 +6,11 @@ const store = useStore()
 <template>
   <div class="main-container">
     <img src="@/assets/offside.png" alt="logo" class="logo" />
-    <p>20 random questions. 3 seconds per question.</p>
+    <p class="sub">20 random questions. 3 seconds per question.</p>
     <ul>
-      <li>✅ Correct: +3 points</li>
-      <li>❌ Wrong: -1 point</li>
-      <li>⏱️ No answer: 0 points</li>
+      <li>Correct: +3 points</li>
+      <li>Wrong: -1 point</li>
+      <li>No answer: 0 points</li>
     </ul>
     <button @click="store.startQuiz()" class="start-btn">Start Quiz</button>
   </div>
@@ -36,19 +36,22 @@ body {
   height: 300px;
   width: auto;
 }
-.main-container p {
+.logo:hover {
+  opacity: 0.9;
+}
+.sub {
   font-size: 18px;
-  color: #444;
-  max-width: 300px;
+  color: #a0a0c0;
+  max-width: 600px;
 }
 ul {
   list-style: none;
   padding: 0;
 }
 li {
-  font-size: 16px;
+  font-size: 18px;
   margin: 6px 0;
-  color: #333;
+  color: #a0a0c0;
 }
 .start-btn {
   background-color: #fdd20c;

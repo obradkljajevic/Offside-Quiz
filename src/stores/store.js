@@ -55,7 +55,7 @@ export const useStore = defineStore('quiz', () => {
     stopTimer()
     answered.value = true
     selectedAnswer.value = null // when user didn't answer
-    goNextAfterDelay()
+    goToNext()
   }
 
   //ANSWER SELECTION
